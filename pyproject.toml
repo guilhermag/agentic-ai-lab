@@ -1,0 +1,12 @@
+[project]
+name = "agentic-ai-lab"
+version = "0.1.0"
+description = "Trilha prática de estudos em AI Engineering e sistemas agentic"
+requires-python = ">=3.12"
+dependencies = []
+
+[tool.ruff]
+line-length = 100
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
