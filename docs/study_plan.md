@@ -12,6 +12,31 @@ Construir uma formação prática em IA Generativa, LLMs, RAG, agentes, LangGrap
 
 3 a 5 horas por semana.
 
+## Rotina semanal
+
+A carga padrão da trilha será de aproximadamente 3 horas por semana, distribuídas da seguinte forma:
+
+```text
+1h — leitura e documentação
+1h — prática e código
+1h — anotação, README, revisão ou registro de progresso
+```
+
+Quando houver disponibilidade e necessidade real, a carga poderá aumentar para até 5 horas semanais.
+
+As horas adicionais devem ser usadas prioritariamente para:
+
+- aprofundar a prática;
+- concluir um artefato;
+- revisar documentação;
+- resolver uma lacuna específica do bloco atual.
+
+A carga semanal não deve ser aumentada apenas para consumir mais conteúdo.
+
+Regra:
+
+> Aumentar profundidade antes de aumentar volume.
+
 ## Regra de execução
 
 - estudar pouco, mas toda semana;
